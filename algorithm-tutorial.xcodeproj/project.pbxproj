@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		2B546DA22883B12B00D99852 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		2BFA6F922883ADD400293EC1 /* algorithm-tutorial */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "algorithm-tutorial"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2BFA6F9C2883AEE800293EC1 /* selectionSort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = selectionSort.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -41,6 +42,7 @@
 		2BFA6F892883ADD400293EC1 = {
 			isa = PBXGroup;
 			children = (
+				2B546DA22883B12B00D99852 /* README.md */,
 				2BFA6F942883ADD400293EC1 /* algorithm-tutorial */,
 				2BFA6F932883ADD400293EC1 /* Products */,
 			);
